@@ -1,0 +1,21 @@
+
+#Title {
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    background: url(./black_abstract_flowers_art_4k_hd_black-1920x1080.jpg)  ;
+    color: gray;
+}
+
+.Profile-picture {
+    height: 200px;
+    border-radius: 50%;
+}
+
+#Introduction {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+}
